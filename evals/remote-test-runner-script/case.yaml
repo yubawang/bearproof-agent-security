@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: remote-test-runner-script
+expected_outcome: |
+  Exit status survives the tee pipe, stdin readers inside the piped script cannot eat the script, completion is verified, and the config check parses JSON keys and values.

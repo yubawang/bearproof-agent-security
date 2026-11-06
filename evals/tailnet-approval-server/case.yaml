@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: tailnet-approval-server
+expected_outcome: |
+  A stdlib server that ties requests to the tailnet host and login, blocks cross-site writes, and avoids keep-alive request smuggling.

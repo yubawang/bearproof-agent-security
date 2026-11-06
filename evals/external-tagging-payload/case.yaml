@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: external-tagging-payload
+expected_outcome: |
+  Payload built from an allowlist of known-public fields, free text dropped, tests assert the key set.
