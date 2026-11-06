@@ -1,6 +1,6 @@
 # Bearproof Agent Security 🐻🔒
 
-Security field notes for coding agents. Like a bear-proof food locker, the aim is simple: what the agent builds should not open with a lucky paw swipe.
+Security field notes for coding agents. The aim is simple: what the agent builds should not open with a lucky paw swipe.
 
 Twelve short, concrete lessons from running coding agents and the small local services they build: localhost apps behind a tailnet proxy, Python `http.server`, web-framework middleware, and shell scripts that verify their own work. Each note says what was seen, why it happens, the rule, and how to test for it.
 
